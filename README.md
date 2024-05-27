@@ -7,7 +7,7 @@
 
 🍕 THIS IS AN ACCOUNT FOR UPLOADING MY GROUP PROJECTS FORM SCHOOL OR OTHER PERSONAL INTERESTING PROJECTS.
 
-🍕 I'm a student students who are enthusiastic about pursuing Computer Science with a specialization in Cybersecurity.
+🍕 I'm a student who are enthusiastic about pursuing Computer Science with a specialization in Cybersecurity.
 
 # Soft-Skills 🦑
 🥩 Problem Solving
