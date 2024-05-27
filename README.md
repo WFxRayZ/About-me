@@ -5,7 +5,7 @@
 # About-Me 
 🍕 I'm currently studying Diploma in IT (Information Technology).
 
-🍕 THIS IS AN ACCOUNT FOR UPLOADING MY GROUP PROJECTS FORM SCHOOL OR OTHER PERSONAL INTERESTING PROJECTS.
+🍕 THIS IS AN ACCOUNT FOR UPLOADING MY GROUP PROJECTS FROM SCHOOL OR OTHER PERSONAL INTERESTING PROJECTS.
 
 🍕 I'm a student who are enthusiastic about pursuing Computer Science with a specialization in Cybersecurity.
 
