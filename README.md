@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm WFxRayZ.😒 </h1>
 
 # About-Me 
-🍕 I'm currently studying in Diploma in IT (Information Technology).
+🍕 I'm currently studying Diploma in IT (Information Technology).
 
 🍕 THIS IS AN ACCOUNT FOR UPLOADING MY GROUP PROJECTS FORM SCHOOL OR OTHER PERSONAL INTERESTING PROJECTS.
 
